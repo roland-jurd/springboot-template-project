@@ -1,0 +1,6 @@
+version: '3'
+services:
+  template-project:
+    image: rolandjurd/template-project
+    ports:
+      - "3000:3000"
